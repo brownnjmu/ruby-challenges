@@ -33,5 +33,5 @@ artistsong = my_fav_song.get_artist_song
 
 #puts "#{my_fav_artist.kanye_rant} #{artistsong} by yourself!"
 
-puts my_fav_song.inspect
+puts artistsong
 
